@@ -1,0 +1,30 @@
+= lltree
+
+This is generic library of `linked tree` implementations. This library implemented for the purpose of having generic tree implementation
+in golang where most of the usages would be node mutation, the mutations includes :
+
+- Removing in place of node
+
+
+== Overview
+
+The idea of this datastructure that each node in the tree should contains reference to its parent, next & it's prev. This made us enable
+to hold all links from certain point in the tree or not.
+
+=== Problem Scope
+
+The scope of the problem that this library want to tackle with :
+
+-
+
+== Mutations
+
+=== Adding a Node
+
+=== Deleting a Node
+
+=== Deplacing a Node
+
+=== Unlink a Node
+
+

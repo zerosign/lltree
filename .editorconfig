@@ -1,0 +1,10 @@
+root = true
+
+[*]
+charset = utf-8
+trim_trailing_whitespace = true 
+
+[*.{go,mod,work,sum}]
+indent_style = tab 
+tab_width = 3 
+
